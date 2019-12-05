@@ -11,3 +11,12 @@ ATGCACAGTANNNACTAGTAG....
 
 3rd agument: name of the outgroup species (not included yet)
 
+
+
+
+###
+
+
+
+ex :
+./pNpSdNdS.py /home/croux/Documents/manuscript_DILSABC/datasets/silene/assembly/reads_2_snp_v2/silene.fas sp truc

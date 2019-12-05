@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 # http://bioinformatics.cvr.ac.uk/blog/calculating-dnds-for-ngs-datasets/
 
 from Bio.SeqIO import parse
